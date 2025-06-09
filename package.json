@@ -1,0 +1,17 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0.",
+  "description": "Desenvolvimento de API rest com Node e Express.",
+  "type": "module",
+  "author": {
+    "name": "Luana Lima"
+  },
+  "main": "./src/server.js",
+  "scripts": {
+    "dev": "node --watch ./src/server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
